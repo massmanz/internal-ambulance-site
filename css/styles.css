@@ -1,0 +1,245 @@
+body {
+    font-size: 1.05rem;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.row {
+    margin: 0;
+    padding: 0;
+}
+
+.col {
+    padding: 0;
+}
+
+a:hover,
+:visited:hover,
+.list-group-item-action:hover,
+.list-group-item:hover span {
+    background: rgb(0, 136, 255);
+    color: #fff;
+    text-decoration: none;
+}
+
+a:not([href]):not([tabindex]) {
+    color: #fff;
+}
+
+.a-text {
+    background: rgb(0, 136, 255);
+    color: #fff;
+    text-decoration: none;
+    padding: 2px 2px 4px 2px;
+    border-radius: 3px;
+}
+
+.a-text:hover {
+    background: red;
+}
+
+p {
+    padding: 1px 2%;
+    margin-bottom: 0;
+}
+
+.text-indent {
+    text-indent: 5%;
+    text-align: justify;
+}
+td.text-center {
+    text-align: center;
+}
+img {
+    max-width: 100%;
+}
+.thumb-wrap {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+.thumb-wrap iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-width: 0;
+  outline-width: 0;
+}
+.block-center {
+    display: block;
+    margin: 0 auto;
+}
+
+.table {
+    max-width: 100%;
+    width: 98%;
+    margin: 0 auto;
+    hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.td-fixed {
+    table-layout: fixed;
+}
+
+.table td,
+.table th {
+    padding: .35rem;
+}
+
+.logotype {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+.logotype img {
+    width: 40%;
+    height: auto;
+}
+
+.close-about {
+    padding: 20px;
+}
+.badge {
+    font-size: 75%;
+    padding: .4em;
+    margin-right: 7px;
+    vertical-align: middle;
+}
+
+.list-group-item {
+    padding: 1rem 1.25rem 1rem 2.75rem;
+}
+
+.list-group-item-action {
+    color: #000;
+    border: 1px solid rgba(0, 0, 0, .2);
+
+}
+.list-group-item-action svg {
+    position: absolute;
+    left: 14px;
+    top: 19px;
+}
+.description {
+    display: block;
+    font-size: small;
+    color: #666;
+}
+
+#footer {
+    font-size: 0.85rem; //где используется?
+}
+
+.feather {
+    width: 18px;
+    height: 18px;
+    margin-bottom: 3px!important;
+    margin-right: 7px!important;
+}
+.feather-file, .feather-gift, .feather-book-open, .feather-image, .feather-file-text, .feather-download {
+    color: #567794;
+}
+.feather-folder{
+    color: #bbaf9f;
+}
+
+.feather-chevron-left {
+    color: #007ae6;
+    width: 28px;
+    height: 28px;
+}
+
+#logo {
+    height: 75px;
+    padding: 15px 10px 15px 15px;
+}
+
+.back:hover {
+    color: red;
+    background: #fff;
+}
+.back .feather-chevron-left {
+    color: #007ae6;
+}
+.back:hover .feather-chevron-left {
+    color: red;
+}
+
+.back {
+    width: 96%;
+    float: left;
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #000;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    padding-top: 4px;
+}
+.about {
+    position: absolute;
+    display: block;
+    right: 0;
+    top: 13px;
+    text-align: center;
+    padding: 12px;
+}
+.about .feather-info {
+    width: 22px;
+    height: 22px;
+}
+.about:hover, .history:hover {
+    color: red;
+    background: #fff;
+}
+.history {
+    position: absolute;
+    display: block;
+    right: 50px;
+    top: 13px;
+    text-align: center;
+    padding: 12px;
+}
+.history .feather-clipboard {
+    width: 22px;
+    height: 22px; 
+}
+.accordion .btn-link {
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+    color: #666;
+}
+.card-header {
+    background: transparent;
+}
+.card-body {
+    padding: 1.25rem 2rem;
+}
+#accordionHistory .active {
+    color: #007ae6;
+}
+#navbar-act {
+    border-radius: 7px;
+    margin-bottom: 10%;
+    font-size: 1rem;
+    padding: 40px 20px;
+}
+
+@media (min-width: 960px) {
+    .container-fluid {
+        max-width: 960px;
+    }
+}

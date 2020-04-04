@@ -155,7 +155,9 @@ td.text-center {
 .feather-download {
 	color: #567794;
 }
-
+.feather-alert-circle {
+	color: #fd1d1d;
+}
 .feather-folder {
 	color: #bbaf9f;
 }

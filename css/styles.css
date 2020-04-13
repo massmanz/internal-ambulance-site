@@ -152,11 +152,13 @@ td.text-center {
 .feather-book-open,
 .feather-image,
 .feather-file-text,
-.feather-download {
+.feather-download,
+.feather-activity,
+.feather-truck {
 	color: #567794;
 }
 .feather-alert-circle {
-	color: #fd1d1d;
+	color: #a82f2f;
 }
 .feather-folder {
 	color: #bbaf9f;

@@ -1,5 +1,6 @@
 body {
 	font-size: 1.05rem;
+	
 }
 
 .container-fluid {
@@ -14,12 +15,21 @@ body {
 .col {
 	padding: 0;
 }
-
+a {
+	color: #005ff9;
+}
+a.ext:hover {
+	background: #005ff9;
+	color: #fff;
+	text-decoration: none;
+	padding: 4px 6px;
+	border-radius: 5px;
+}
 a:hover,
 :visited:hover,
 .list-group-item-action:hover,
 .list-group-item:hover span {
-	background: rgb(0, 136, 255);
+	background: #005ff9;
 	color: #fff;
 	text-decoration: none;
 }
@@ -29,7 +39,7 @@ a:not([href]):not([tabindex]) {
 }
 
 .a-text {
-	background: rgb(0, 136, 255);
+	background: #005ff9;
 	color: #fff;
 	text-decoration: none;
 	padding: 2px 2px 4px 2px;
@@ -121,10 +131,14 @@ td.text-center {
 
 .list-group-item {
 	padding: 1rem 1.25rem 1rem 2.75rem;
+	font-size: 1.04rem;
+	font-weight: 500;
 }
-
+.list-group-item:hover svg {
+	color: #fff;
+}
 .list-group-item-action {
-	color: #000;
+	color: #3a3a3a;
 	border: 1px solid rgba(0, 0, 0, .2);
 }
 
@@ -153,15 +167,33 @@ td.text-center {
 .feather-image,
 .feather-file-text,
 .feather-download,
+.feather-video,
 .feather-activity,
 .feather-truck {
-	color: #567794;
+	/*color: #567794;*/
+	color: #005ff9;
+	stroke-width: 1.6;
 }
-.feather-alert-circle {
-	color: #a82f2f;
+.feather-download {
+	color: #f4511e;
+	stroke-width: 1.6;
+}
+.feather-image {
+	color: #43a047;
+	stroke-width: 1.6;
+}
+.feather-youtube {
+	color: #ff0000;
+	stroke-width: 1.6;
+}
+.feather-alert-octagon {
+	color: #ef0a0a;
 }
 .feather-folder {
-	color: #bbaf9f;
+	/*color: #bbaf9f;*/
+	color: rgb(255, 202, 90);
+	fill: rgb(255, 202, 90);
+	stroke-width: 1;
 }
 
 .feather-chevron-left {
@@ -181,7 +213,7 @@ td.text-center {
 }
 
 .back .feather-chevron-left {
-	color: #007ae6;
+	color: #005ff9;
 }
 
 .back:hover .feather-chevron-left {

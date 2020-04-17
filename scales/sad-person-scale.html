@@ -1,101 +1,114 @@
-﻿
-<!doctype html>
+﻿<!doctype html>
 <html lang="ru">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="../bootstrap/bootstrap.min.css">
-    <link rel="stylesheet" href="../css/styles.css">
-    <link rel="apple-touch-icon" sizes="57x57" href="../img/favicon/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="../img/favicon/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="../img/favicon/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="../img/favicon/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="../img/favicon/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="../img/favicon/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="../img/favicon/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="../img/favicon/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="../img/favicon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="../img/favicon/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="../img/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="../img/favicon/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="../img/favicon/favicon-16x16.png">
-    <title>103: ШОРС</title>
-  </head>
-  <body>
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col">
-            <div id="logo">
-                <a href="../scales.html" class="back" title="Вернуться назад"><i data-feather="chevron-left"></i>Шкала ШОРС</a>
-              </div>
-          <p>Шкала оценки риска суицида (The SAD PERSONS Scale, 1983) — предназначена для экспресс-диагностики суицидального риска. Шкала содержит 10 пунтков, характеризующих факторы риска суицида и оцениваемых клиницистом как 0 (отсутствует), либо 1 (присутствует).</p>
-          <br>
-          <table class="table table-bordered">
-            <tbody>
-              <tr class="table-secondary">
-                <td><p class="text-center">Фактор</p></td>
-                <td><p class="text-center">Значение</p></td>
-              </tr>
-              <tr>
-                <td>Пол</td>
-                <td>1 — мужской; 0 — женский</td>
-              </tr>
-              <tr>
-                <td>Возраст</td>
-                <td>1 — &lt;19 лет или &gt;45 лет</td>
-              </tr>
-              <tr>
-                <td>Депрессия</td>
-                <td>1 — если есть</td>
-              </tr>
-              <tr>
-                <td>Парасуициды в анамнезе</td>
-                <td>1 — если есть</td>
-              </tr>
-              <tr>
-                <td>Злоупотребление алкоголем</td>
-                <td>1 — если есть</td>
-              </tr>
-              <tr>
-                <td>Нарушение рационального мышления (бред, галлюцинации, фиксация на потере, депрессивное сужение восприятия)</td>
-                <td>1 — шизофрения, расстройство настроения, когнитивные нарушения</td>
-              </tr>
-              <tr>
-                <td>Недостаток социальной поддержки (проживание в одиночестве, тяжелые нарушенные отношения, не принимающее социальное окружение)</td>
-                <td>1 — если присутствует, особенно при недавней потере «значимого другого»</td>
-              </tr>
-              <tr>
-                <td>Организованный план суицида</td>
-                <td>1 — если есть, а избранный метод потенциально летален</td>
-              </tr>
-              <tr>
-                <td>Отсутствие супруги (супруга)</td>
-                <td>1 — разведен, вдовец, живущий отдельно, проживает в одиночестве</td>
-              </tr>
-              <tr>
-                <td>Болезнь</td>
-                <td>1 — если есть, особенно хроническая, инвалидизирующая, тяжелая</td>
-              </tr>
-            </tbody>
-          </table>
-          <br>
-          <h4 class="text-center">Интерпретация полученных результатов</h4>
-          <p>0-2 балла — низкий риск, амбулаторное наблюдение</p>
-          <p>3-4 балла — средний риск, амбулаторное наблюдение с частыми встречами (1-3 р/неделю); дневной стационар; рассмотреть возможность госпитализации</p>
-          <p>5-6 баллов — высокий риск, рекомендовать госпитализацию, если нет уверенности в качественном амбулаторном наблюдении (психиатрическая и социальная служба, родственники)</p>
-          <p>7-10 баллов — очень высокий риск, госпитализация (в том числе принудительная)</p>
-          <br>
-          <br>
-          <br>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/styles.css">
+  <link rel="apple-touch-icon" sizes="57x57" href="../img/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="../img/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="../img/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="../img/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="../img/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="../img/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="../img/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="../img/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../img/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="../img/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="../img/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../img/favicon/favicon-16x16.png">
+  <title>103: ШОРС</title>
+</head>
 
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col">
+        <div id="logo">
+          <a href="../scales.html" class="back" title="Вернуться назад"><i data-feather="chevron-left"></i>Шкала
+            ШОРС</a>
         </div>
+        <p>Шкала оценки риска суицида (The SAD PERSONS Scale, 1983) — предназначена для экспресс-диагностики
+          суицидального риска. Шкала содержит 10 пунтков, характеризующих факторы риска суицида и оцениваемых
+          клиницистом как 0 (отсутствует), либо 1 (присутствует).</p>
+        <br>
+        <table class="table table-bordered">
+          <tbody>
+            <tr class="table-secondary">
+              <td>
+                <p class="text-center">Фактор</p>
+              </td>
+              <td>
+                <p class="text-center">Значение</p>
+              </td>
+            </tr>
+            <tr>
+              <td>Пол</td>
+              <td>1 — мужской; 0 — женский</td>
+            </tr>
+            <tr>
+              <td>Возраст</td>
+              <td>1 — &lt;19 лет или &gt;45 лет</td>
+            </tr>
+            <tr>
+              <td>Депрессия</td>
+              <td>1 — если есть</td>
+            </tr>
+            <tr>
+              <td>Парасуициды в анамнезе</td>
+              <td>1 — если есть</td>
+            </tr>
+            <tr>
+              <td>Злоупотребление алкоголем</td>
+              <td>1 — если есть</td>
+            </tr>
+            <tr>
+              <td>Нарушение рационального мышления (бред, галлюцинации, фиксация на потере, депрессивное сужение
+                восприятия)</td>
+              <td>1 — шизофрения, расстройство настроения, когнитивные нарушения</td>
+            </tr>
+            <tr>
+              <td>Недостаток социальной поддержки (проживание в одиночестве, тяжелые нарушенные отношения, не
+                принимающее социальное окружение)</td>
+              <td>1 — если присутствует, особенно при недавней потере «значимого другого»</td>
+            </tr>
+            <tr>
+              <td>Организованный план суицида</td>
+              <td>1 — если есть, а избранный метод потенциально летален</td>
+            </tr>
+            <tr>
+              <td>Отсутствие супруги (супруга)</td>
+              <td>1 — разведен, вдовец, живущий отдельно, проживает в одиночестве</td>
+            </tr>
+            <tr>
+              <td>Болезнь</td>
+              <td>1 — если есть, особенно хроническая, инвалидизирующая, тяжелая</td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <h4 class="text-center">Интерпретация полученных результатов</h4>
+        <p>0-2 балла — низкий риск, амбулаторное наблюдение</p>
+        <p>3-4 балла — средний риск, амбулаторное наблюдение с частыми встречами (1-3 р/неделю); дневной стационар;
+          рассмотреть возможность госпитализации</p>
+        <p>5-6 баллов — высокий риск, рекомендовать госпитализацию, если нет уверенности в качественном амбулаторном
+          наблюдении (психиатрическая и социальная служба, родственники)</p>
+        <p>7-10 баллов — очень высокий риск, госпитализация (в том числе принудительная)</p>
+        <br>
+        <br>
+        <br>
+
+
       </div>
     </div>
   </div>
+  </div>
   <script src="../js/feather.min.js"></script>
-    <script>
-      feather.replace();
-    </script>
-  </body>
+  <script>
+    feather.replace();
+  </script>
+</body>
+
 </html>

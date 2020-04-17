@@ -1,9 +1,8 @@
-
 p {
   line-height: 1.5;
   margin: 0 0 1.2em;
 }
-  
+
 ul {
   padding: 0 0 0 20px;
 }
@@ -12,7 +11,7 @@ ul {
   color: #fff;
   background: #0089ff;
 }
-  
+
 ::-moz-selection {
   color: #fff;
   background: #0089ff;
@@ -36,7 +35,7 @@ input {
 input::placeholder {
   color: rgba(32, 33, 36, 0.8);
 }
-  
+
 .underline {
   border-bottom: 2px solid rgb(26, 115, 232);
   bottom: 0;
@@ -49,17 +48,17 @@ input::placeholder {
   transition: opacity 120ms ease-out, width 0ms linear 180ms;
   width: 0;
 }
-  
-input:focus + .underline {
+
+input:focus+.underline {
   opacity: 1;
   transition: width 180ms ease-out, opacity 120ms ease-in;
   width: 100%;
 }
-  
+
 .field-title.focused {
   color: rgb(26, 115, 232);
 }
-  
+
 form {
   padding: 10px;
   text-align: center;

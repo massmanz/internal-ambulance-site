@@ -1,6 +1,6 @@
 body {
 	font-size: 1.05rem;
-	
+
 }
 
 .container-fluid {
@@ -15,9 +15,16 @@ body {
 .col {
 	padding: 0;
 }
+
+#logo {
+	height: 75px;
+	padding: 15px 10px 15px 15px;
+}
+
 a {
 	color: #005ff9;
 }
+
 a.ext:hover {
 	background: #005ff9;
 	color: #fff;
@@ -25,6 +32,7 @@ a.ext:hover {
 	padding: 4px 6px;
 	border-radius: 5px;
 }
+
 a:hover,
 :visited:hover,
 .list-group-item-action:hover,
@@ -134,9 +142,11 @@ td.text-center {
 	font-size: 1.04rem;
 	font-weight: 500;
 }
+
 .list-group-item:hover svg {
 	color: #fff;
 }
+
 .list-group-item-action {
 	color: #3a3a3a;
 	border: 1px solid rgba(0, 0, 0, .2);
@@ -157,8 +167,9 @@ td.text-center {
 .feather {
 	width: 18px;
 	height: 18px;
-	margin-bottom: 3px!important;
-	margin-right: 7px!important;
+	margin-bottom: 3px !important;
+	margin-right: 7px !important;
+	stroke-width: 1.6;
 }
 
 .feather-file,
@@ -168,32 +179,36 @@ td.text-center {
 .feather-file-text,
 .feather-download,
 .feather-video,
-.feather-activity,
 .feather-truck {
-	/*color: #567794;*/
 	color: #005ff9;
-	stroke-width: 1.6;
 }
+
+.feather-activity,
+.feather-alert-circle {
+	color: #ec407a;
+}
+
 .feather-download {
 	color: #f4511e;
-	stroke-width: 1.6;
 }
+
 .feather-image {
 	color: #43a047;
-	stroke-width: 1.6;
 }
+
 .feather-youtube {
 	color: #ff0000;
-	stroke-width: 1.6;
 }
-.feather-alert-octagon {
-	color: #ef0a0a;
-}
+
 .feather-folder {
-	/*color: #bbaf9f;*/
 	color: rgb(255, 202, 90);
 	fill: rgb(255, 202, 90);
 	stroke-width: 1;
+}
+
+.list-group-item:hover .feather-folder,
+.list-group-item:focus .feather-folder {
+	color: rgb(255, 202, 90);
 }
 
 .feather-chevron-left {
@@ -202,9 +217,29 @@ td.text-center {
 	height: 28px;
 }
 
-#logo {
-	height: 75px;
-	padding: 15px 10px 15px 15px;
+.list-group-item .badge-secondary {
+	background-color: #a8b2bb;
+	transition: none;
+	margin-right: 7px;
+	margin-top: -5px;
+	margin-left: 3px;
+}
+
+.list-group-item:hover .badge-secondary,
+.list-group-item:focus .badge-secondary {
+	background-color: rgba(168, 178, 187, .3);
+}
+
+.back {
+	width: 96%;
+	float: left;
+	font-size: 1.4rem;
+	font-weight: bold;
+	color: #000;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	padding-top: 4px;
 }
 
 .back:hover {
@@ -220,16 +255,18 @@ td.text-center {
 	color: red;
 }
 
-.back {
-	width: 96%;
-	float: left;
-	font-size: 1.4rem;
-	font-weight: bold;
-	color: #000;
-	overflow: hidden;
-	white-space: nowrap;
-	text-overflow: ellipsis;
-	padding-top: 4px;
+.history {
+	position: absolute;
+	display: block;
+	right: 50px;
+	top: 13px;
+	text-align: center;
+	padding: 12px;
+}
+
+.history .feather-clipboard {
+	width: 22px;
+	height: 22px;
 }
 
 .about {
@@ -250,20 +287,6 @@ td.text-center {
 .history:hover {
 	color: red;
 	background: #fff;
-}
-
-.history {
-	position: absolute;
-	display: block;
-	right: 50px;
-	top: 13px;
-	text-align: center;
-	padding: 12px;
-}
-
-.history .feather-clipboard {
-	width: 22px;
-	height: 22px;
 }
 
 @media (min-width: 960px) {

@@ -4,7 +4,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Подсказки для работы сотрудникам скорой помощи. Все запомнить невозможно, но можно подсмотреть в шпаргалке">
+  <meta name="description"
+    content="Подсказки для работы сотрудникам скорой помощи. Все запомнить невозможно, но можно подсмотреть в шпаргалке">
   <meta name="keywords" content="шпаргалки для скорой">
   <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
   <link rel="stylesheet" href="css/styles.css">
@@ -32,8 +33,6 @@
           <a href="/" class="back" title="Вернуться назад"><i data-feather="chevron-left"></i>Шпаргалки</a>
         </div>
         <div class="list-group">
-          <a class="list-group-item list-group-item-action" href="cheat-sheets/articles.html"><i
-              data-feather="folder"></i> Статьи</a>
           <a class="list-group-item list-group-item-action" href="cheat-sheets/ivl.html"><i data-feather="folder"></i>
             ИВЛ</a>
           <a class="list-group-item list-group-item-action" href="cheat-sheets/infuzomat.html"><i
@@ -56,6 +55,8 @@
               data-feather="file"></i> Применение препаратов (дети)</a>
           <a class="list-group-item list-group-item-action" href="cheat-sheets/intraosseous.html"><i
               data-feather="file"></i> Внутрикостный доступ</a>
+          <a class="list-group-item list-group-item-action" href="cheat-sheets/tactics.html"><i
+              data-feather="file"></i> Тактика выездных бригад СМП</a>
           <a class="list-group-item list-group-item-action" href="cheat-sheets/breath.html"><i data-feather="image"></i>
             Патологические типы дыхания</a>
           <a class="list-group-item list-group-item-action" href="cheat-sheets/analgesia.html"><i
@@ -66,6 +67,8 @@
               data-feather="image"></i> Педиатрия</a>
           <a class="list-group-item list-group-item-action" href="cheat-sheets/sorting.html"><i data-feather="file"></i>
             Инструкция по сортировке</a>
+          <a class="list-group-item list-group-item-action" href="cheat-sheets/differential-diagnosis-STEMI.html"><i
+              data-feather="file"></i> Диф. диагноз ОКС с подъемом ST</a>
           <a class="list-group-item list-group-item-action" href="cheat-sheets/elevation-ST.html"><i
               data-feather="file"></i> Причины элевации ST</a>
         </div>
@@ -81,6 +84,18 @@
     document.onmousedown = function (e) {
       e.target.click();
     }
+  </script>
+  <script>
+    feather.replace();
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164008232-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-164008232-1');
   </script>
 </body>
 

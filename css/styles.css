@@ -32,17 +32,19 @@ a.ext:hover {
 	padding: 4px 6px;
 	border-radius: 5px;
 }
+
 .in {
 	padding: 2px 2px 3px 2px;
 	border-radius: 3px;
 	background: rgba(0, 95, 249, .1);
 }
+
 a.in:hover {
-	
 	color: #005ff9;
 	background: rgba(0, 95, 249, .25);
 	border-bottom: none;
 }
+
 a:hover,
 :visited:hover,
 .list-group-item-action:hover,

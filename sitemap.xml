@@ -4,1345 +4,1337 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
   <loc>https://in.103orsha.by/</loc>
-  <lastmod>2020-04-19T14:14:15+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://in.103orsha.by/index.html</loc>
-  <lastmod>2020-04-19T14:14:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://in.103orsha.by/about.html</loc>
-  <lastmod>2020-04-19T14:14:15+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/new.html</loc>
-  <lastmod>2020-04-19T14:14:16+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19.html</loc>
-  <lastmod>2020-04-19T14:14:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://in.103orsha.by/announcement.html</loc>
-  <lastmod>2020-04-19T14:14:15+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/icd.html</loc>
-  <lastmod>2020-04-19T14:14:15+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols.html</loc>
-  <lastmod>2020-04-19T14:14:16+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status.html</loc>
-  <lastmod>2020-04-19T14:14:15+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/scales.html</loc>
-  <lastmod>2020-04-19T14:14:16+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts.html</loc>
-  <lastmod>2020-04-19T14:14:15+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/diagnoses.html</loc>
-  <lastmod>2020-04-19T14:14:15+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets.html</loc>
-  <lastmod>2020-04-19T14:14:15+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/data.html</loc>
-  <lastmod>2020-04-19T14:15:03+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/delivery.html</loc>
-  <lastmod>2020-04-19T14:15:04+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/sampling.html</loc>
-  <lastmod>2020-04-19T14:15:05+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/ppe.html</loc>
-  <lastmod>2020-04-19T14:15:04+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/documents.html</loc>
-  <lastmod>2020-04-19T14:15:04+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/information.html</loc>
-  <lastmod>2020-04-19T14:15:04+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/infections.html</loc>
-  <lastmod>2020-04-19T14:14:16+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/alcohol-intoxication.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/anaphylaxis.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/hypertension.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/bradyarrhythmias.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/foreign-bodies.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/meningococcal-infection.html</loc>
-  <lastmod>2020-04-19T14:15:23+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/ophthalmology.html</loc>
-  <lastmod>2020-04-19T14:15:23+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/acute-coronary-syndrome.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/acute-left-ventricular-failure.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/stroke.html</loc>
-  <lastmod>2020-04-19T14:15:23+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/tachyarrhythmias.html</loc>
-  <lastmod>2020-04-19T14:15:23+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/injuries.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/corpses.html</loc>
-  <lastmod>2020-04-19T14:15:18+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries.html</loc>
-  <lastmod>2020-04-19T14:15:19+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/diseases.html</loc>
-  <lastmod>2020-04-19T14:15:18+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/scales/glazgo-adult.html</loc>
-  <lastmod>2020-04-19T14:15:26+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/scales/glazgo-child.html</loc>
-  <lastmod>2020-04-19T14:15:26+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/scales/acute-respiratory-failure.html</loc>
-  <lastmod>2020-04-19T14:15:26+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/scales/wells.html</loc>
-  <lastmod>2020-04-19T14:15:26+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/scales/shoks.html</loc>
-  <lastmod>2020-04-19T14:15:26+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/scales/sad-person-scale.html</loc>
-  <lastmod>2020-04-19T14:15:26+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print.html</loc>
-  <lastmod>2020-04-19T14:14:16+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization.html</loc>
-  <lastmod>2020-04-19T14:14:16+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment.html</loc>
-  <lastmod>2020-04-19T14:14:17+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/uniform.html</loc>
-  <lastmod>2020-04-19T14:14:17+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/responsibilities.html</loc>
-  <lastmod>2020-04-19T14:14:16+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/quality.html</loc>
-  <lastmod>2020-04-19T14:14:16+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/salary.html</loc>
-  <lastmod>2020-04-19T14:14:16+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption.html</loc>
-  <lastmod>2020-04-19T14:14:16+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/diagnoses/cardiology.html</loc>
-  <lastmod>2020-04-19T14:15:14+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/diagnoses/neurology.html</loc>
-  <lastmod>2020-04-19T14:15:14+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/diagnoses/therapy.html</loc>
-  <lastmod>2020-04-19T14:15:15+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/diagnoses/surgery.html</loc>
-  <lastmod>2020-04-19T14:15:15+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/diagnoses/gynecology.html</loc>
-  <lastmod>2020-04-19T14:15:14+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/diagnoses/traumatology.html</loc>
-  <lastmod>2020-04-19T14:15:15+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/diagnoses/psychiatry.html</loc>
-  <lastmod>2020-04-19T14:15:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://in.103orsha.by/cheat-sheets/articles.html</loc>
-  <lastmod>2020-04-19T14:14:39+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/ivl.html</loc>
-  <lastmod>2020-04-19T14:14:40+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat.html</loc>
-  <lastmod>2020-04-19T14:14:40+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/equipment.html</loc>
-  <lastmod>2020-04-19T14:14:39+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/delivery.html</loc>
-  <lastmod>2020-04-19T14:14:39+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/to-foreign-citizens.html</loc>
-  <lastmod>2020-04-19T14:14:40+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/antiarrhythmics.html</loc>
-  <lastmod>2020-04-19T14:14:39+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/psychiatric-hospital.html</loc>
-  <lastmod>2020-04-19T14:14:40+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/birth-at-home.html</loc>
-  <lastmod>2020-04-19T14:14:39+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/use-of-drugs.html</loc>
-  <lastmod>2020-04-19T14:14:40+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/use-of-drugs-children.html</loc>
-  <lastmod>2020-04-19T14:14:40+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/intraosseous.html</loc>
-  <lastmod>2020-04-19T14:14:40+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://in.103orsha.by/cheat-sheets/tactics.html</loc>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://in.103orsha.by/cheat-sheets/lund-browder-chart.html</loc>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/breath.html</loc>
-  <lastmod>2020-04-19T14:14:39+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/analgesia.html</loc>
-  <lastmod>2020-04-19T14:14:39+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/catheters.html</loc>
-  <lastmod>2020-04-19T14:14:39+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/pediatrics.html</loc>
-  <lastmod>2020-04-19T14:14:40+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/sorting.html</loc>
-  <lastmod>2020-04-19T14:14:40+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://in.103orsha.by/cheat-sheets/differential-diagnosis-STEMI.html</loc>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/elevation-ST.html</loc>
-  <lastmod>2020-04-19T14:14:39+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/ppe/putting-on-ppe.html</loc>
-  <lastmod>2020-04-19T14:15:12+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/ppe/ppe-removal.html</loc>
-  <lastmod>2020-04-19T14:15:12+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/ppe/ppe-processing.html</loc>
-  <lastmod>2020-04-19T14:15:12+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/ppe/putting-on-ppe-video.html</loc>
-  <lastmod>2020-04-19T14:15:12+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/ppe/ppe-removal-video.html</loc>
-  <lastmod>2020-04-19T14:15:12+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/433.pdf</loc>
-  <lastmod>2020-04-19T14:15:03+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:02+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/36.pdf</loc>
-  <lastmod>2020-04-19T14:15:01+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:00+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/208.pdf</loc>
-  <lastmod>2020-04-19T14:15:01+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:00+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/pismo6149.pdf</loc>
-  <lastmod>2020-04-19T14:15:04+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:02+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/pismo6133.pdf</loc>
-  <lastmod>2020-04-19T14:15:04+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:03+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/388.pdf</loc>
-  <lastmod>2020-04-19T14:15:03+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:02+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/387.pdf</loc>
-  <lastmod>2020-04-19T14:15:03+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:02+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/378.pdf</loc>
-  <lastmod>2020-04-19T14:15:01+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:01+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/376.pdf</loc>
-  <lastmod>2020-04-19T14:15:02+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:01+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/296.pdf</loc>
-  <lastmod>2020-04-19T14:15:01+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:01+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F.pdf</loc>
-  <lastmod>2020-04-19T14:15:05+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:03+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%81%D0%BE%D0%B1%D0%BB%D1%8E%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB.docx</loc>
-  <lastmod>2020-04-19T14:15:05+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:03+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/information/protocol1.html</loc>
-  <lastmod>2020-04-19T14:15:05+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/information/protocol2.html</loc>
-  <lastmod>2020-04-19T14:15:06+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/information/protocol3.html</loc>
-  <lastmod>2020-04-19T14:15:06+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/information/Belarus-covid-scenarios.pdf</loc>
-  <lastmod>2020-04-19T14:15:06+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:04+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/information/%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81.pdf</loc>
-  <lastmod>2020-04-19T14:15:09+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:06+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/information/%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81%20-%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%D0%BD%D0%B5%20%D0%B4%D0%BE%D0%BC%D0%B0.pdf</loc>
-  <lastmod>2020-04-19T14:15:07+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:05+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/information/%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81%20-%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5.pdf</loc>
-  <lastmod>2020-04-19T14:15:07+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:05+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/information/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BC%D0%B0%D1%81%D0%BA%D0%B8.pdf</loc>
-  <lastmod>2020-04-19T14:15:08+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:05+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/information/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%BE%D0%B6%D0%B8%D0%BB%D1%8B%D1%85%20%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9.pdf</loc>
-  <lastmod>2020-04-19T14:15:08+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:06+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/covid-19/information/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B0%D0%B5%D0%BC%20%D0%BC%D0%B8%D1%84%D1%8B%20%D0%BE%20COVID-2019.pdf</loc>
-  <lastmod>2020-04-19T14:15:09+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:06+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/infections/%E2%84%9683.docx</loc>
-  <lastmod>2020-04-19T14:14:21+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:22+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/infections/%E2%84%9684.rtf</loc>
-  <lastmod>2020-04-19T14:14:21+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:23+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/infections/%E2%84%96136.rtf</loc>
-  <lastmod>2020-04-19T14:14:21+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:23+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%90%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B8%D0%BD%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.docx</loc>
-  <lastmod>2020-04-19T14:15:25+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%90%D0%BD%D0%B0%D1%84%D0%B8%D0%BB%D0%B0%D0%BA%D1%81%D0%B8%D1%8F.docx</loc>
-  <lastmod>2020-04-19T14:15:23+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%90%D1%80%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D1%82%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F.docx</loc>
-  <lastmod>2020-04-19T14:15:23+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/cardiostimulation.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%91%D1%80%D0%B0%D0%B4%D0%B8%D0%B0%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D0%B8%20%D0%B8%20%D0%A1%D0%A1%D0%A1%D0%A3.docx</loc>
-  <lastmod>2020-04-19T14:15:24+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%98%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D0%BB%D0%B0.docx</loc>
-  <lastmod>2020-04-19T14:15:24+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%9C%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%BA%D0%BE%D0%BA%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F.docx</loc>
-  <lastmod>2020-04-19T14:15:24+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%9D%D0%B5%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BE%D1%84%D1%82%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8.docx</loc>
-  <lastmod>2020-04-19T14:15:24+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:20+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%9E%D0%9A%D0%A1.docx</loc>
-  <lastmod>2020-04-19T14:15:25+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:20+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%9E%D0%9B%D0%96%D0%9D.docx</loc>
-  <lastmod>2020-04-19T14:15:25+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:20+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%9E%D0%9D%D0%9C%D0%9A.docx</loc>
-  <lastmod>2020-04-19T14:14:19+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%9E%D0%9D%D0%9C%D0%9A.docx</loc>
-  <lastmod>2020-04-19T14:15:25+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:20+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%A2%D0%B0%D1%85%D0%B8%D0%B0%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D0%B8.docx</loc>
-  <lastmod>2020-04-19T14:15:25+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/traumatic-brain-injury.html</loc>
-  <lastmod>2020-04-19T14:15:23+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/limb-injuries.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/chest-injuries.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/abdominal-injuries.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/spinal-injury.html</loc>
-  <lastmod>2020-04-19T14:15:23+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/external-genital-injuries.html</loc>
-  <lastmod>2020-04-19T14:15:22+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/nasal-fracture.html</loc>
-  <lastmod>2020-04-19T14:15:23+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/wounds.html</loc>
-  <lastmod>2020-04-19T14:15:19+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/bruise.html</loc>
-  <lastmod>2020-04-19T14:15:20+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/hematoma.html</loc>
-  <lastmod>2020-04-19T14:15:21+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/erosion.html</loc>
-  <lastmod>2020-04-19T14:15:21+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/abrasion.html</loc>
-  <lastmod>2020-04-19T14:15:20+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/strangulation-furrow.html</loc>
-  <lastmod>2020-04-19T14:15:21+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/burns.html</loc>
-  <lastmod>2020-04-19T14:15:20+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/frostbite.html</loc>
-  <lastmod>2020-04-19T14:15:21+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/electrical-injury.html</loc>
-  <lastmod>2020-04-19T14:15:21+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/fractures.html</loc>
-  <lastmod>2020-04-19T14:15:21+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/dislocations.html</loc>
-  <lastmod>2020-04-19T14:15:20+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/diseases/hives.html</loc>
-  <lastmod>2020-04-19T14:15:19+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/diseases/vsd.html</loc>
-  <lastmod>2020-04-19T14:15:20+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/diseases/abscess.html</loc>
-  <lastmod>2020-04-19T14:15:19+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/diseases/stroke.html</loc>
-  <lastmod>2020-04-19T14:15:19+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/diseases/hernias.html</loc>
-  <lastmod>2020-04-19T14:15:19+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/diseases/varicose.html</loc>
-  <lastmod>2020-04-19T14:15:20+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/diseases/erysipelas.html</loc>
-  <lastmod>2020-04-19T14:15:19+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/diseases/dorsalgia.html</loc>
-  <lastmod>2020-04-19T14:15:19+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/diseases/pneumothorax.html</loc>
-  <lastmod>2020-04-19T14:15:19+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/diseases/trophic.html</loc>
-  <lastmod>2020-04-19T14:15:19+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%B2%D1%8B%D0%B7%D0%BE%D0%B2%D0%B0.docx</loc>
-  <lastmod>2020-04-19T14:14:20+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B8%D1%81%D1%82.docx</loc>
-  <lastmod>2020-04-19T14:14:20+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:22+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%20%D0%BE%D1%82%D0%BA%D0%B0%D0%B7%D0%B0.docx</loc>
-  <lastmod>2020-04-19T14:14:20+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:22+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print/%D0%9E%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D1%81%D0%B8%D1%85%D0%B8%D0%B0%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8.docx</loc>
-  <lastmod>2020-04-19T14:14:20+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D1%80%D0%B5%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8.docx</loc>
-  <lastmod>2020-04-19T14:14:20+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:22+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print/%D0%9F%D0%BE%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D1%8D%D0%BF%D0%B8%D0%BA%D1%80%D0%B8%D0%B7.docx</loc>
-  <lastmod>2020-04-19T14:14:20+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8.docx</loc>
-  <lastmod>2020-04-19T14:14:20+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:22+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%9E%D0%9A%D0%A1.doc</loc>
-  <lastmod>2020-04-19T14:14:19+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print/%D0%A7%D0%A1%20%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA.doc</loc>
-  <lastmod>2020-04-19T14:14:20+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:22+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print/%D0%9E%D0%BF%D1%80%D0%BE%D1%81%20%D0%9E%D0%9D%D0%9C%D0%9A%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D1%80%D0%B0%D1%87%D0%B0.docx</loc>
-  <lastmod>2020-04-19T14:14:20+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/documents-for-print/%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0.docx</loc>
-  <lastmod>2020-04-19T14:14:20+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:22+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/2.pdf</loc>
-  <lastmod>2020-04-19T14:14:24+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:25+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/1236.pdf</loc>
-  <lastmod>2020-04-19T14:14:23+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/58.pdf</loc>
-  <lastmod>2020-04-19T14:14:25+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:26+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/14.pdf</loc>
-  <lastmod>2020-04-19T14:14:23+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/182.pdf</loc>
-  <lastmod>2020-04-19T14:14:23+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:25+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/439.pdf</loc>
-  <lastmod>2020-04-19T14:14:24+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:26+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/733.pdf</loc>
-  <lastmod>2020-04-19T14:14:26+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/1192.pdf</loc>
-  <lastmod>2020-04-19T14:14:22+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:23+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/1215.pdf</loc>
-  <lastmod>2020-04-19T14:14:22+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:23+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/536.pdf</loc>
-  <lastmod>2020-04-19T14:14:27+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:28+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/64.pdf</loc>
-  <lastmod>2020-04-19T14:14:26+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/228.pdf</loc>
-  <lastmod>2020-04-19T14:14:24+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:26+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/126.pdf</loc>
-  <lastmod>2020-04-19T14:14:22+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/177a.pdf</loc>
-  <lastmod>2020-04-19T14:14:24+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:26+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/1314.pdf</loc>
-  <lastmod>2020-04-19T14:14:23+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:25+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/989.pdf</loc>
-  <lastmod>2020-04-19T14:14:27+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:28+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/776.pdf</loc>
-  <lastmod>2020-04-19T14:14:26+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:28+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/organization/627.pdf</loc>
-  <lastmod>2020-04-19T14:14:26+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment/1030.pdf</loc>
-  <lastmod>2020-04-19T14:14:32+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment/90.pdf</loc>
-  <lastmod>2020-04-19T14:14:36+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:36+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment/59.pdf</loc>
-  <lastmod>2020-04-19T14:14:35+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:36+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment/55.pdf</loc>
-  <lastmod>2020-04-19T14:14:34+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:35+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment/54.pdf</loc>
-  <lastmod>2020-04-19T14:14:35+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:36+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment/50.pdf</loc>
-  <lastmod>2020-04-19T14:14:34+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:35+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment/45.pdf</loc>
-  <lastmod>2020-04-19T14:14:34+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:34+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment/155.pdf</loc>
-  <lastmod>2020-04-19T14:14:33+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:34+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment/1110.pdf</loc>
-  <lastmod>2020-04-19T14:14:34+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:34+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment/1246.pdf</loc>
-  <lastmod>2020-04-19T14:14:32+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:33+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment/337.pdf</loc>
-  <lastmod>2020-04-19T14:14:34+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:34+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/treatment/1318.pdf</loc>
-  <lastmod>2020-04-19T14:14:33+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:33+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/uniform/1086.pdf</loc>
-  <lastmod>2020-04-19T14:14:38+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:39+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/uniform/73.docx</loc>
-  <lastmod>2020-04-19T14:14:37+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:37+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/uniform/129.doc</loc>
-  <lastmod>2020-04-19T14:14:37+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:37+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/uniform/norma.html</loc>
-  <lastmod>2020-04-19T14:14:37+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/responsibilities/%D0%92%D1%80%D0%B0%D1%87%20%D0%91%D0%98%D0%A2.pdf</loc>
-  <lastmod>2020-04-19T14:14:28+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:29+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/responsibilities/%D0%94%D0%B8%D1%81%D0%BF%D0%B5%D1%82%D1%87%D0%B5%D1%80.pdf</loc>
-  <lastmod>2020-04-19T14:14:28+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:29+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/responsibilities/%D0%A4%D0%B5%D0%BB%D1%8C%D0%B4%D1%88%D0%B5%D1%80%20%D0%B2%D1%8B%D0%B5%D0%B7%D0%B6%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%20%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE.pdf</loc>
-  <lastmod>2020-04-19T14:14:29+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:30+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/responsibilities/%D0%A4%D0%B5%D0%BB%D1%8C%D0%B4%D1%88%D0%B5%D1%80%20%D0%91%D0%98%D0%A2.pdf</loc>
-  <lastmod>2020-04-19T14:14:29+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:30+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/responsibilities/%D0%9C%D0%B5%D0%B4%D1%81%D0%B5%D1%81%D1%82%D1%80%D0%B5%20%D0%9E%D0%9A%D0%9C%D0%A3.pdf</loc>
-  <lastmod>2020-04-19T14:14:29+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:30+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/responsibilities/%D0%A1%D0%B0%D0%BD%D0%B8%D1%82%D0%B0%D1%80.pdf</loc>
-  <lastmod>2020-04-19T14:14:29+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:30+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/responsibilities/%D0%92%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf</loc>
-  <lastmod>2020-04-19T14:14:28+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:29+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/quality/instruction138-1207.pdf</loc>
-  <lastmod>2020-04-19T14:14:27+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:28+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/quality/%D0%9F%D1%80%D0%B8%D0%BA%D0%B0%D0%B7%20%D0%BE%D0%B1%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%BC%20%D0%A1%D0%A1%D0%9D%D0%9C%D0%9F.doc</loc>
-  <lastmod>2020-04-19T14:14:27+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:29+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/salary/27.pdf</loc>
-  <lastmod>2020-04-19T14:14:30+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:31+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/salary/138.pdf</loc>
-  <lastmod>2020-04-19T14:14:30+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:31+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/salary/13.pdf</loc>
-  <lastmod>2020-04-19T14:14:30+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:31+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/salary/52.pdf</loc>
-  <lastmod>2020-04-19T14:14:30+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:31+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/salary/53.pdf</loc>
-  <lastmod>2020-04-19T14:14:31+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:31+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/salary/55.pdf</loc>
-  <lastmod>2020-04-19T14:14:31+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:31+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/salary/%D0%A0%D0%B0%D0%B7%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F.pdf</loc>
-  <lastmod>2020-04-19T14:14:31+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption/305.pdf</loc>
-  <lastmod>2020-04-19T14:14:18+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:20+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption/122.pdf</loc>
-  <lastmod>2020-04-19T14:14:17+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption/419.pdf</loc>
-  <lastmod>2020-04-19T14:14:19+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption/220.pdf</loc>
-  <lastmod>2020-04-19T14:14:18+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:20+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption/204.pdf</loc>
-  <lastmod>2020-04-19T14:14:18+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:20+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption/330.pdf</loc>
-  <lastmod>2020-04-19T14:14:18+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:20+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption/644.pdf</loc>
-  <lastmod>2020-04-19T14:14:19+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption/5.pdf</loc>
-  <lastmod>2020-04-19T14:14:19+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption/1.pdf</loc>
-  <lastmod>2020-04-19T14:14:17+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption/4.pdf</loc>
-  <lastmod>2020-04-19T14:14:18+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:20+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption/1732.pdf</loc>
-  <lastmod>2020-04-19T14:14:17+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/acts/anticorruption/189512.pdf</loc>
-  <lastmod>2020-04-19T14:14:17+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://in.103orsha.by/cheat-sheets/articles/differential-diagnosis-STEMI.html</loc>
-  <lastmod>2020-04-19T14:14:41+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://in.103orsha.by/cheat-sheets/articles/tactics.html</loc>
-  <lastmod>2020-04-19T14:14:41+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://in.103orsha.by/cheat-sheets/articles/mistakes.html</loc>
-  <lastmod>2020-04-19T14:14:41+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/ivl/respiratory-support.html</loc>
-  <lastmod>2020-04-19T14:15:00+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/ivl/conditions-and-modes.html</loc>
-  <lastmod>2020-04-19T14:15:00+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/ivl/mechanical-ventilation-in-some-clinical-conditions.html</loc>
-  <lastmod>2020-04-19T14:15:00+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat/dopamin.html</loc>
-  <lastmod>2020-04-19T14:14:59+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat/dobutamin.html</loc>
-  <lastmod>2020-04-19T14:14:58+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat/nitrats.html</loc>
-  <lastmod>2020-04-19T14:14:59+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat/adrenalin.html</loc>
-  <lastmod>2020-04-19T14:14:58+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat/others.html</loc>
-  <lastmod>2020-04-19T14:14:59+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat/comparison.html</loc>
-  <lastmod>2020-04-19T14:14:58+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/equipment/ACCUVAC%20Rescue.pdf</loc>
-  <lastmod>2020-04-19T14:14:44+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/equipment/Pulsar.pdf</loc>
-  <lastmod>2020-04-19T14:14:49+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/equipment/Schiller%20AT-101.pdf</loc>
-  <lastmod>2020-04-19T14:14:50+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:50+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/equipment/Edan%20SE-601b.pdf</loc>
-  <lastmod>2020-04-19T14:14:47+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:47+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/equipment/Edan%20SE-1515.pdf</loc>
-  <lastmod>2020-04-19T14:14:46+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:46+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/equipment/Primedic%20Defi%20B.pdf</loc>
-  <lastmod>2020-04-19T14:14:48+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/equipment/Zoll%20M.pdf</loc>
-  <lastmod>2020-04-19T14:14:57+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/equipment/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BD.docx</loc>
-  <lastmod>2020-04-19T14:14:57+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/equipment/Beneheart%20D3.pdf</loc>
-  <lastmod>2020-04-19T14:14:43+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/equipment/%D0%90-%D0%98%D0%92%D0%9B%20%D0%92%D0%92%D0%9B%20-%20%D0%A2%D0%9C%D0%A2.pdf</loc>
-  <lastmod>2020-04-19T14:14:57+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/equipment/Medumat%20Standard%202.pdf</loc>
-  <lastmod>2020-04-19T14:14:57+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/%D0%98%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%20%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B0%D0%BC.docx</loc>
-  <lastmod>2020-04-19T14:14:40+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B0%D0%BD%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D0%BA%D0%BE%D0%B2.docx</loc>
-  <lastmod>2020-04-19T14:14:41+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/%D0%9F%D1%81%D0%B8%D1%85%D0%B8%D0%B0%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80.docx</loc>
-  <lastmod>2020-04-19T14:14:41+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B8%20%D1%80%D0%BE%D0%B4%D0%B0%D1%85%20%D0%B2%D0%BD%D0%B5%20%D0%9B%D0%9F%D0%A3.doc</loc>
-  <lastmod>2020-04-19T14:14:41+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://in.103orsha.by/cheat-sheets/%D0%A2%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20%D0%A1%D0%9C%D0%9F.docx</loc>
+  <lastmod>2020-04-20T14:28:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B5.doc</loc>
-  <lastmod>2020-04-19T14:14:40+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%20%D0%BA%D0%B0%D1%80%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%B8.docx</loc>
-  <lastmod>2020-04-19T14:15:24+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:19+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D0%BD%D0%BE-%D0%BC%D0%BE%D0%B7%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%82%D1%80%D0%B0%D0%B2%D0%BC%D0%B0.docx</loc>
-  <lastmod>2020-04-19T14:15:26+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%A2%D1%80%D0%B0%D0%B2%D0%BC%D1%8B%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9.docx</loc>
-  <lastmod>2020-04-19T14:15:26+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%A2%D1%80%D0%B0%D0%B2%D0%BC%D1%8B%20%D0%B3%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B8.docx</loc>
-  <lastmod>2020-04-19T14:15:25+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%A2%D1%80%D0%B0%D0%B2%D0%BC%D1%8B%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%B0.docx</loc>
-  <lastmod>2020-04-19T14:15:25+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%A2%D1%80%D0%B0%D0%B2%D0%BC%D1%8B%20%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0.docx</loc>
-  <lastmod>2020-04-19T14:15:26+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/protocols/%D0%9F%D0%B5%D1%80%D0%B5%D0%BB%D0%BE%D0%BC%20%D0%BA%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D0%BD%D0%BE%D1%81%D0%B0%20%D0%B8%20%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2%D1%8B%D1%85%20%D0%BF%D0%B0%D0%B7%D1%83%D1%85.docx</loc>
-  <lastmod>2020-04-19T14:15:25+00:00</lastmod>
+  <lastmod>2020-04-20T14:29:20+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/lacerations.html</loc>
-  <lastmod>2020-04-19T14:15:21+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/bruised-wounds.html</loc>
-  <lastmod>2020-04-19T14:15:20+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/bruised-lacerations.html</loc>
-  <lastmod>2020-04-19T14:15:20+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/cut-wounds.html</loc>
-  <lastmod>2020-04-19T14:15:20+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/chopped-wounds.html</loc>
-  <lastmod>2020-04-19T14:15:20+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/stab-wounds.html</loc>
-  <lastmod>2020-04-19T14:15:21+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/stab-wound.html</loc>
-  <lastmod>2020-04-19T14:15:21+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/bitten-wounds.html</loc>
-  <lastmod>2020-04-19T14:15:20+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/local-status/injuries/gunshot-wounds.html</loc>
-  <lastmod>2020-04-19T14:15:21+00:00</lastmod>
+  <lastmod>2020-04-20T20:50:45+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat/%D0%94%D0%BE%D0%BF%D0%B0%D0%BC%D0%B8%D0%BD.docx</loc>
-  <lastmod>2020-04-19T14:14:59+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:59+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat/%D0%94%D0%BE%D0%B1%D1%83%D1%82%D0%B0%D0%BC%D0%B8%D0%BD.docx</loc>
-  <lastmod>2020-04-19T14:14:59+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:59+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat/%D0%9D%D0%B8%D1%82%D1%80%D0%B0%D1%82%D1%8B.docx</loc>
-  <lastmod>2020-04-19T14:14:59+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:59+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat/%D0%90%D0%B4%D1%80%D0%B5%D0%BD%D0%B0%D0%BB%D0%B8%D0%BD.docx</loc>
-  <lastmod>2020-04-19T14:14:59+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:59+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat/%D0%94%D1%80%D1%83%D0%B3%D0%B8%D0%B5.docx</loc>
-  <lastmod>2020-04-19T14:14:59+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:59+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://in.103orsha.by/cheat-sheets/infuzomat/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5.docx</loc>
-  <lastmod>2020-04-19T14:14:59+00:00</lastmod>
+  <lastmod>2020-04-20T14:28:59+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 
